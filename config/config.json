@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2F6481D20995A806B9B6fa206444E25F566B859E",
+  "SCAN_LINK": "https://polygonscan.com/token/0x2f6481d20995a806b9b6fa206444e25f566b859e",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "CursorZ",
+  "SYMBOL": "CrZ",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/cursorz",
+  "SHOW_BACKGROUND": true
+}
